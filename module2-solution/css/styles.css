@@ -9,6 +9,7 @@ h1 {
 	text-align: center;
 	margin-top: 50px;
   margin-bottom: 50px;
+  font-size: 1.75em;
 }
 .container {
 	clear: margin;
@@ -25,6 +26,7 @@ h2 {
 	height: 30px;
 	border: 1px solid black;
 	text-align: center;
+	font-size: 1.25em;
 }
 .chicken {
 	background-color: rgb(212, 93, 121);
@@ -40,6 +42,7 @@ h2 {
 }
 p {
 	margin-top: 50px;
+	text-align: left;
 }
 
 /* Simple Responsive Framework. */
